@@ -5,3 +5,4 @@ Allow: /
 
 Sitemap: https://simontokterbaru.netlify.app/urllist.txt
 Sitemap: https://simontok-j4pt3.ondigitalocean.app/urllistt.txt
+Sitemap: https://matabokep.simolex.xyz/urllistnew.txt
